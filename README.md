@@ -1,2 +1,3 @@
-# roadmap.sh-projects
-Repository containing roadmap.sh projects
+# Projects from roadmap.sh 
+
+This repository contains projects built following https://roadmap.sh/
